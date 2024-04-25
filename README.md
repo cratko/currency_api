@@ -1,1 +1,1 @@
-
+Receives currency exchange rates
